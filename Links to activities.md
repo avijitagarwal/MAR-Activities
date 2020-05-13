@@ -8,12 +8,9 @@
      
      
 2. Taken part in ICPC at Kharagpur regionals and Amritapuri Regionals securing 18th rank at Kharagpur regionals
-   and 135th rank at Amritapuri Regionals with team HexClan.
-   
-    [link](https://icpc.baylor.edu/ICPCID/A8VDUZ9WRM7B).
+   and 135th rank at Amritapuri Regionals with team HexClann. [link](https://icpc.baylor.edu/ICPCID/A8VDUZ9WRM7B).
    
 3.Codings solutions published by me on codechef and codeforces:
 
-   a. [FACTOR_TREE](https://www.codechef.com/viewsolution/31954192)
-   
+   a. [FACTOR_TREE](https://www.codechef.com/viewsolution/31954192) 
    b. [CLASSICAL?](http://codeforces.com/contest/1285/submission/78617783)
